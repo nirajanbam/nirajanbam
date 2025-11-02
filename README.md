@@ -165,8 +165,5 @@ Covers multivariate models, methods, and techniques for latent structure in mult
 
 ---
 
-### Optional: CV Badge
- 
 
-[![CV](https://img.shields.io/badge/CV-PDF-blue)](./CV/CV_NirajanBam.pdf)
 
