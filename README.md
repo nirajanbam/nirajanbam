@@ -110,7 +110,6 @@ Covers multivariate models, methods, and techniques for latent structure in mult
 ## 🌍 International Conference Presentations
 
 1. **Bam, N. (2025, August 2–7).** *Ethical Considerations in Big Data Research Involving Human Subjects.* Joint Statistical Meeting 2025, Nashville, Tennessee, USA.  
-Link](https://ww3.aievolution.com/JSMAnnual2025/Events/pubSearchEvents?style=0)
 
 2. **Bam, N., & Sapkota, L. P. (2024, August 3–8).** *New Unit Lindley Mixed Model: A Bayesian approach.* Joint Statistical Meeting 2024, Portland, Oregon, United States.
 
