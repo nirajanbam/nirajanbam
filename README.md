@@ -10,10 +10,9 @@ Developing innovative statistical methods and applying them across higher educat
 
 ## 📄 Curriculum Vitae
 
+
 You can view my full CV here:  
-👉 [**Download CV (PDF)**](./CVNirajan%20Bam.pdf)
-
-
+[![CV](https://img.shields.io/badge/CV-PDF-blue)](./CVNirajan%20Bam.pdf)
 
 ---
 
@@ -155,15 +154,19 @@ Covers multivariate models, methods, and techniques for latent structure in mult
 ---
 ## 🌐 Contact
 
-📧 nirajanbam@miamioh.edu  
-🔗 [Google Scholar](https://scholar.google.com/)  
-🔗 [LinkedIn](https://linkedin.com/in/nirajanbam)  
-🔗 [ORCID](https://orcid.org/)  
+
+📧 nirajan.8888@gmail.com  
+📧 bamn@miamioh.edu  
+🔗 [Google Scholar](https://scholar.google.com/citations?hl=en&user=nbdi0ucAAAAJ)  
+🔗 [LinkedIn](https://www.linkedin.com/in/nirajan-bam-phd-0b612a25/)  
+🔗 [ORCID](https://orcid.org/0000-0002-9350-6048)  
+🔗 [TikTok](https://www.tiktok.com/@nbam40)  
+🔗 [ResearchGate](https://www.researchgate.net/profile/Nirajan-Bam?ev=hdr_xprf)
 
 ---
 
 ### Optional: CV Badge
-You can make your CV link more visible by adding this badge at the top or under the CV section:  
+ 
 
 [![CV](https://img.shields.io/badge/CV-PDF-blue)](./CV/CV_NirajanBam.pdf)
 
