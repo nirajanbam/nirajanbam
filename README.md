@@ -19,8 +19,6 @@ You can view my full CV here:
 
 ## 🧑‍🏫 Teaching
 
-## 🧑‍🏫 Teaching
-
 ### **Courses Taught**
 
 - **STA 261: Statistics (4 credits)**  
@@ -60,7 +58,13 @@ Covers multivariate models, methods, and techniques for latent structure in mult
 
 ---
 
-## 🧪 Research
+## 📚 Book Co-Authored
+
+- **Sthapit, A., Khanal, S., Poudel, D., Tamang, G., Uprety, P., Bam, N. (2015).** [*Data Analysis & Modeling*](https://books.asmitapublication.com/product/461/data-analysis-and-modeling-bba-pu-fourth-semester/bba). *Asmita Books Publishers & Distributors (P) Ltd., Kathmandu*
+
+- **Joshi, P. R., Uprety, P., Thagurathi, R., Nepal, S., Khadka, B., Bam, N. (2015).** [*Business Statistics*](https://www.buddhapublication.com/single/business-statistics-Ygu5A). *Buddha Academic Enterprises Pvt. Ltd., Kathmandu*
+
+---
 
 ## 📰 Publications
 
@@ -108,6 +112,21 @@ Covers multivariate models, methods, and techniques for latent structure in mult
 [https://doi.org/10.3126/jbm.v5i0.27387](https://doi.org/10.3126/jbm.v5i0.27387)
 
 ---
+## 🌍 International Conference Presentations
+
+1. **Bam, N. (2025, August 2–7).** *Ethical Considerations in Big Data Research Involving Human Subjects.* Joint Statistical Meeting 2025, Nashville, Tennessee, USA.  
+[Presentation Link](https://ww3.aievolution.com/JSMAnnual2025/Events/pubSearchEvents?style=0)
+
+2. **Bam, N., & Sapkota, L. P. (2024, August 3–8).** *New Unit Lindley Mixed Model: A Bayesian approach.* Joint Statistical Meeting 2024, Portland, Oregon, United States.
+
+3. **Bam, N., & Shafie, K. (2023, August 5–10).** *Bayesian Approach to Unit Lindley Model.* Joint Statistical Meeting 2023, Toronto, Ontario, Canada.
+
+4. **Bam, N., & Shafie, K. (2022, August 6–11).** *Analysis of COVID-19 death rates across the countries of Europe: A mixed Beta regression model.* Joint Statistical Meeting 2022, Washington D.C., United States.  
+[Abstract Link](https://ww2.amstat.org/meetings/jsm/2022/onlineprogram/AbstractDetails.cfm?abstractid=323857)
+
+5. **Bam, N. (2021, August 8–12).** *Modeling tourists' overnight stay in Pokhara, Nepal: Zero truncated negative binomial and ordinary least square regression approach.* Presented at Virtual Joint Statistical Meeting 2021.  
+[Abstract Link](https://ww2.amstat.org/meetings/jsm/2021/onlineprogram/AbstractDetails.cfm?abstractid=317833)
+
 ---
 
 ## 🌐 Contact
