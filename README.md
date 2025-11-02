@@ -11,7 +11,7 @@ Developing innovative statistical methods and applying them across higher educat
 ## 📄 Curriculum Vitae
 
 You can view my full CV here:  
-👉 [**Download CV (PDF)**](./CVNirajan Bam.pdf)  
+👉 [**Download CV (PDF)**](CVNirajan Bam.pdf)  
 
 
 ---
