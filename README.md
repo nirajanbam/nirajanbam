@@ -128,7 +128,31 @@ Covers multivariate models, methods, and techniques for latent structure in mult
 [Abstract Link](https://ww2.amstat.org/meetings/jsm/2021/onlineprogram/AbstractDetails.cfm?abstractid=317833)
 
 ---
+## 💰 Research Grants
 
+- **University Grant Commission (UGC), Nepal** – [*Factors Affecting Job Satisfaction of Academic Staffs*](#)  
+  **Funding:** NPR 140,000 | **Role:** Principal Investigator | **Award #:** SRDIG-72/73-Mgmt-02 | **Period:** 2016–2017
+
+- **Pokhara University Research Council (PURC), Nepal** – [*Factors Affecting Tourists' Satisfaction and Revisit Intention*](#)  
+  **Funding:** NPR 150,000 | **Role:** Principal Investigator | **Award #:** FSY 2072-73 | **Period:** 2016–2017
+
+- **University Grant Commission (UGC), Nepal** – [*Tracer Study of Graduates of Pokhara University*](#)  
+  **Funding:** N/A | **Role:** Consultant Statistician | **Period:** 2016–2017
+
+---
+
+## 🏆 Awards
+
+- [**Academic Excellence Award 2022**](#)  
+  Awarded by College of Education and Behavioral Science, University of Northern Colorado, Greeley, USA
+
+- [**Academic Excellence Award 2021**](#)  
+  Awarded by College of Education and Behavioral Science, University of Northern Colorado, Greeley, USA
+
+- **Nepal Vidhya Bhushan Kha 2011 (Nepal Education Award)**  
+  Awarded by Hon. President of Nepal
+
+---
 ## 🌐 Contact
 
 📧 nirajanbam@miamioh.edu  
