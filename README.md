@@ -20,7 +20,7 @@ You can view my full CV here:
 
 ### **Courses Taught**
 
-- **STA 261: Statistics (4 credits)**  
+- **STA 261: Statistics (Undergraduate)**  
   Descriptive statistics, basic probability, random variables, binomial and normal probability distributions, hypothesis testing, regression and correlation, analysis of variance. Emphasis on practical applications.
 **SRM 610: Multivariate Models (Graduate/PhD Level)**  
 Covers multivariate models, methods, and techniques for latent structure in multivariate data. Topics include qualitative analysis, data preparation, data structure, matrix computation, graphical models, geometry of data, multivariate normal distribution, multivariate analysis of variance, multivariate linear regression, principal component analysis, factor analysis, and cluster analysis.
@@ -110,7 +110,7 @@ Covers multivariate models, methods, and techniques for latent structure in mult
 ## 🌍 International Conference Presentations
 
 1. **Bam, N. (2025, August 2–7).** *Ethical Considerations in Big Data Research Involving Human Subjects.* Joint Statistical Meeting 2025, Nashville, Tennessee, USA.  
-[Presentation Link](https://ww3.aievolution.com/JSMAnnual2025/Events/pubSearchEvents?style=0)
+Link](https://ww3.aievolution.com/JSMAnnual2025/Events/pubSearchEvents?style=0)
 
 2. **Bam, N., & Sapkota, L. P. (2024, August 3–8).** *New Unit Lindley Mixed Model: A Bayesian approach.* Joint Statistical Meeting 2024, Portland, Oregon, United States.
 
