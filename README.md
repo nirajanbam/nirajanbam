@@ -1,7 +1,5 @@
 # 👋 Hi, I'm Nirajan Bam
 
-# 👋 Hi, I'm Nirajan Bam
-
 🎓 Assistant Professor & Researcher in Statistics  
 📍 Miami University, Department of Mathematical and Physical Sciences, Hamilton, Ohio, USA  
 
@@ -13,7 +11,7 @@ Developing innovative statistical methods and applying them across higher educat
 ## 📄 Curriculum Vitae
 
 You can view my full CV here:  
-👉 [**Download CV (PDF)**](./CV/)  
+👉 [**Download CV (PDF)**](./CVNirajan Bam.pdf)  
 
 
 ---
