@@ -53,10 +53,6 @@ Covers multivariate models, methods, and techniques for latent structure in mult
 - Categorical Data Analysis   
 
 ---
-
-
----
-
 ## 📚 Book Co-Authored
 
 - **Sthapit, A., Khanal, S., Poudel, D., Tamang, G., Uprety, P., Bam, N. (2015).** [*Data Analysis & Modeling*](https://books.asmitapublication.com/product/461/data-analysis-and-modeling-bba-pu-fourth-semester/bba). *Asmita Books Publishers & Distributors (P) Ltd., Kathmandu*
@@ -154,14 +150,13 @@ Covers multivariate models, methods, and techniques for latent structure in mult
 ---
 ## 🌐 Contact
 
-
 📧 nirajan.8888@gmail.com  
 📧 bamn@miamioh.edu  
+🔗 [ResearchGate](https://www.researchgate.net/profile/Nirajan-Bam?ev=hdr_xprf)
 🔗 [Google Scholar](https://scholar.google.com/citations?hl=en&user=nbdi0ucAAAAJ)  
 🔗 [LinkedIn](https://www.linkedin.com/in/nirajan-bam-phd-0b612a25/)  
 🔗 [ORCID](https://orcid.org/0000-0002-9350-6048)  
 🔗 [TikTok](https://www.tiktok.com/@nbam40)  
-🔗 [ResearchGate](https://www.researchgate.net/profile/Nirajan-Bam?ev=hdr_xprf)
 
 ---
 
