@@ -19,18 +19,44 @@ You can view my full CV here:
 
 ## 🧑‍🏫 Teaching
 
-### Courses
-- **STA 301: Introduction to Bayesian Statistics**  
-  [Syllabus (PDF)](./teaching/STA301_syllabus.pdf)
+## 🧑‍🏫 Teaching
 
-- **STA 210: Statistical Computing in R**  
-  [Lecture Notes](./teaching/STA210_notes.pdf)
+### **Courses Taught**
 
-- **Other Courses:** Add more courses as needed
+- **STA 261: Statistics (4 credits)**  
+  Descriptive statistics, basic probability, random variables, binomial and normal probability distributions, hypothesis testing, regression and correlation, analysis of variance. Emphasis on practical applications.
 
-### Teaching Materials
-- [Assignments & Solutions](./teaching/assignments)
-- [R Tutorials](./teaching/R_tutorials)
+- **Business Statistics (BBA: Undergraduate)**  
+  Fundamentals of descriptive and inferential statistics with a business focus. Topics include data summaries, probability distributions, expectation, variance, covariance, hypothesis testing, and confidence intervals.
+
+- **Probability and Statistics (BE: Undergraduate)**  
+  Introduction to probability and statistics. Topics include descriptive statistics, probability distributions (binomial, Poisson, hypergeometric, negative binomial, uniform, exponential, Gamma, Beta, Normal), sampling, confidence intervals, hypothesis testing, regression, and correlation.
+
+- **Data Analysis and Modeling (BBA: Undergraduate)**  
+  Covers statistical and quantitative tools for business decision-making. Topics include regression analysis (simple & multiple), time series analysis and forecasting, linear programming, transportation & assignment models, and network models.
+
+- **Data Analysis for Decision Modeling (MBA: Graduate)**  
+  Two components:  
+  1. **Data Analysis:** Exploratory data analysis and multiple regression models for management decisions.  
+  2. **Decision Modeling:** Mathematical and computer models for analyzing complex organizational decisions, including linear programming, sensitivity analysis, integer programming, and network models.
+
+- **Business Statistics (MBA: Graduate)**  
+  Focus on understanding and applying statistical tools in business decisions. Topics include summarizing data, probability distributions, sampling distributions, hypothesis testing, chi-square test, ANOVA, correlation, and regression.
+
+- **Introduction to Statistical Analysis (Undergraduate)**  
+  Introductory course covering basic statistical concepts, data sampling, probability, estimation, hypothesis testing, regression, correlation, chi-square test, and ANOVA.
+
+### **PhD-Level Courses (Teaching Assistant)**
+
+- Applied Statistics  
+- Applied Bayesian Analysis  
+- Applied Time Series Analysis  
+- Linear Model  
+- Categorical Data Analysis  
+- Statistical Methods III  
+
+---
+
 
 ---
 
