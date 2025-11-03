@@ -1,6 +1,7 @@
 # 👋 Hi, I'm Nirajan Bam
 
 🎓 Assistant Professor of Statistics | Researcher 
+
 📍 Miami University, Department of Mathematical and Physical Sciences, Hamilton, Ohio, USA  
 
 💡 **Research Interests:**  
