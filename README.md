@@ -22,6 +22,7 @@ You can view my full CV here:
 
 - **STA 261: Statistics (Undergraduate)**  
   Descriptive statistics, basic probability, random variables, binomial and normal probability distributions, hypothesis testing, regression and correlation, analysis of variance. Emphasis on practical applications.
+  
 **SRM 610: Multivariate Models (Graduate/PhD Level)**  
 Covers multivariate models, methods, and techniques for latent structure in multivariate data. Topics include qualitative analysis, data preparation, data structure, matrix computation, graphical models, geometry of data, multivariate normal distribution, multivariate analysis of variance, multivariate linear regression, principal component analysis, factor analysis, and cluster analysis.
   
