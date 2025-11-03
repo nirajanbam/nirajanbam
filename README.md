@@ -12,7 +12,7 @@ Developing innovative statistical methods and applying them across higher educat
 
 
 You can view my full CV here:  
-[![CV](https://img.shields.io/badge/CV-PDF-blue)](./CVNirajan%20Bam.pdf)
+[![CV](https://img.shields.io/badge/CV-PDF-blue)](./CV_Nirajan_Bam.pdf)
 
 ---
 
