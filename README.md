@@ -81,30 +81,28 @@ Covers multivariate models, methods, and techniques for latent structure in mult
 
 6. **Bam, N., & Hitigala Kaluarachchilage, P. K. (2025).** *Comparison of the Unit-Lindley and Beta Mixed Model: A Bayesian Perspective.* Austrian Journal of Statistics. (In Production)
 
-7. **Bam, N., & Sapkota, L. P. (2025).** *New Unit Lindley Mixed Model: Applications to COVID-19 and Child Mortality Rates under the Bayesian Approach.* International Journal of Advanced and Applied Sciences. (In Production)
-
-8. **Kumar, P., Sapkota, L. P., Kimar, V., & Bam, N. (2025, January 22).** Exploring the new exponentiated inverse Weibull distribution: Properties, estimation, and analysis via classical and Bayesian approaches. Contemporary Mathematics, 6(1), 827–849.  
+7. **Kumar, P., Sapkota, L. P., Kimar, V., & Bam, N. (2025, January 22).** Exploring the new exponentiated inverse Weibull distribution: Properties, estimation, and analysis via classical and Bayesian approaches. Contemporary Mathematics, 6(1), 827–849.  
 [https://ojs.wiserpub.com/index.php/CM/article/view/6255](https://ojs.wiserpub.com/index.php/CM/article/view/6255)
 
-9. **Sapkota, L. P., Kumar, P., Kumar, V., & Bam, N. (2024).** Estimation and Analysis of Trigonometric Models under Bayesian Approach. Pakistan Journal of Statistics and Operation Research, 20(3), 587–613.  
+8. **Sapkota, L. P., Kumar, P., Kumar, V., & Bam, N. (2024).** Estimation and Analysis of Trigonometric Models under Bayesian Approach. Pakistan Journal of Statistics and Operation Research, 20(3), 587–613.  
 [https://doi.org/10.18187/pjsor.v20i3.4615](https://doi.org/10.18187/pjsor.v20i3.4615)
 
-10. **Bam, N. (2023).** Analysis of country-level risk factors of COVID-19 mortality across countries of Asia: A generalized estimating equation approach. Journal of Health Management, 25(4), 1018–1028.  
+9. **Bam, N. (2023).** Analysis of country-level risk factors of COVID-19 mortality across countries of Asia: A generalized estimating equation approach. Journal of Health Management, 25(4), 1018–1028.  
 [https://doi.org/10.1177/09720634221150866](https://doi.org/10.1177/09720634221150866)
 
-11. **Bam, N. (2023).** Affective commitment among university faculty members in Nepal: A structural equation modeling approach. Prithvi Academic Journal, 6, 74–91.  
+10. **Bam, N. (2023).** Affective commitment among university faculty members in Nepal: A structural equation modeling approach. Prithvi Academic Journal, 6, 74–91.  
 [https://doi.org/10.3126/paj.v6i1.54614](https://doi.org/10.3126/paj.v6i1.54614)
 
-12. **Bam, N. (2023).** Analysis of Tourists’ Length of Stay in Pokhara, Nepal. Advances in Hospitality and Tourism Research (AHTR), 1(11).  
+11. **Bam, N. (2023).** Analysis of Tourists’ Length of Stay in Pokhara, Nepal. Advances in Hospitality and Tourism Research (AHTR), 1(11).  
 [https://doi.org/10.30519/ahtr.1073732](https://doi.org/10.30519/ahtr.1073732)
 
-13. **Bam, N., & Kunwar, A. (2020).** Tourist Satisfaction: Relationship Analysis among its Antecedents and Revisit Intention. Advances in Hospitality and Tourism Research (AHTR), 1(8).  
+12. **Bam, N., & Kunwar, A. (2020).** Tourist Satisfaction: Relationship Analysis among its Antecedents and Revisit Intention. Advances in Hospitality and Tourism Research (AHTR), 1(8).  
 [https://doi.org/10.30519/ahtr.519994](https://doi.org/10.30519/ahtr.519994)
 
-14. **Bam, N., Badal, M., & Bhattarai, R. (2018).** Factors affecting organizational commitment among university faculties of Nepal: A structural equation modeling approach. Journal of Human Resource Management, 1(21).  
+13. **Bam, N., Badal, M., & Bhattarai, R. (2018).** Factors affecting organizational commitment among university faculties of Nepal: A structural equation modeling approach. Journal of Human Resource Management, 1(21).  
 [Link](http://www.jhrm.eu/2018/04/90-factors-affecting-organizational-commitment-among-university-faculties-of-nepal-a-structural-equation-modeling-approach/)
 
-15. **Bam, N., Thagurathi, R., & Shrestha, B. (2018).** Stock price behavior of Nepalese commercial banks: random walk hypothesis. Journal of Business and Management, 5.  
+14. **Bam, N., Thagurathi, R., & Shrestha, B. (2018).** Stock price behavior of Nepalese commercial banks: random walk hypothesis. Journal of Business and Management, 5.  
 [https://doi.org/10.3126/jbm.v5i0.27387](https://doi.org/10.3126/jbm.v5i0.27387)
 
 ---
