@@ -81,7 +81,7 @@ Covers multivariate models, methods, and techniques for latent structure in mult
 
 6. **Bam, N., & Hitigala Kaluarachchilage, P. K. (2025).** *Comparison of the Unit-Lindley and Beta Mixed Model: A Bayesian Perspective.* Austrian Journal of Statistics. (In Production)
 
-7. **Kumar, P., Sapkota, L. P., Kimar, V., & Bam, N. (2025, January 22).** Exploring the new exponentiated inverse Weibull distribution: Properties, estimation, and analysis via classical and Bayesian approaches. Contemporary Mathematics, 6(1), 827–849.  
+7. **Kumar, P., Sapkota, L. P., Kimar, V., & Bam, N. (2025).** Exploring the new exponentiated inverse Weibull distribution: Properties, estimation, and analysis via classical and Bayesian approaches. Contemporary Mathematics, 6(1), 827–849.  
 [https://ojs.wiserpub.com/index.php/CM/article/view/6255](https://ojs.wiserpub.com/index.php/CM/article/view/6255)
 
 8. **Sapkota, L. P., Kumar, P., Kumar, V., & Bam, N. (2024).** Estimation and Analysis of Trigonometric Models under Bayesian Approach. Pakistan Journal of Statistics and Operation Research, 20(3), 587–613.  
