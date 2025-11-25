@@ -80,7 +80,8 @@ Covers multivariate models, methods, and techniques for latent structure in mult
 5. **Sapkota, L. P., Bam, N., Kumar, P., & Kumar, V. (2025).** *New Logistic Family of Distributions: Applications to Reliability Engineering.* Axioms, 14(8), 643.  
 [https://doi.org/10.3390/axioms14080643](https://doi.org/10.3390/axioms14080643)
 
-6. **Bam, N., & Hitigala Kaluarachchilage, P. K. (2025).** *Comparison of the Unit-Lindley and Beta Mixed Model: A Bayesian Perspective.* Austrian Journal of Statistics. (In Production)
+6. **Bam, N., & Hitigala Kaluarachchilage, P. K. (2025).** Comparison of the Unit-Lindley and Beta Mixed Model: A Bayesian Perspective. *Austrian Journal of Statistics, 55*(1), 49–82. https://doi.org/10.17713/ajs.v55i1.2115
+
 
 7. **Bam, N., \& Sapkota,. P. (2025).** *A Beta Mixed Model Approach for Analyzing Country-Level Risk and Protective Factors of COVID-19 Death Rates in Europe.* International Journal of Advanced and Applied Sciences. (In Production)
 
