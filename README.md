@@ -83,7 +83,7 @@ Covers multivariate models, methods, and techniques for latent structure in mult
 6. **Bam, N., & Hitigala Kaluarachchilage, P. K. (2025).** Comparison of the Unit-Lindley and Beta Mixed Model: A Bayesian Perspective. *Austrian Journal of Statistics, 55*(1), 49–82. https://doi.org/10.17713/ajs.v55i1.2115
 
 
-7. **Bam, N., \& Sapkota,. P. (2025).** *A Beta Mixed Model Approach for Analyzing Country-Level Risk and Protective Factors of COVID-19 Death Rates in Europe.* International Journal of Advanced and Applied Sciences. (In Production)
+7. **Bam, N., \& Sapkota,. P. (2025).** *A Beta Mixed Model Approach for Analyzing Country-Level Risk and Protective Factors of COVID-19 Death Rates in Europe.* International Journal of Advanced and Applied Sciences, 12(12), 19-30. https://doi.org/10.21833/ijaas.2025.12.003
 
 8. **Kumar, P., Sapkota, L. P., Kimar, V., & Bam, N. (2025).** Exploring the new exponentiated inverse Weibull distribution: Properties, estimation, and analysis via classical and Bayesian approaches. Contemporary Mathematics, 6(1), 827–849.  
 [https://ojs.wiserpub.com/index.php/CM/article/view/6255](https://ojs.wiserpub.com/index.php/CM/article/view/6255)
