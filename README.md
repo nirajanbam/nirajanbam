@@ -65,10 +65,10 @@ Covers multivariate models, methods, and techniques for latent structure in mult
 
 ## 📰 Publications
 
-1.**Bam, N., Sapkota, L. P., & Mazucheli, J. (2026).** *A new unit-Lindley mixed-effects model with an application to electricity access data.*  
-**Environmetrics, 37**(2), e70077. https://doi.org/10.1002/env.70077
+1.  **Bam, N., Sapkota, L. P., & Mazucheli, J. (2026).**  
+*A new unit-Lindley mixed-effects model with an application to electricity access data.*  **Environmetrics, 37**(2), e70077. https://doi.org/10.1002/env.70077
 
-2.  **Bam, N., & Sapkota, L. P. (2025).** *New Unit Lindley Mixed Model: Applications to COVID-19 and Child Mortality Rates under the Bayesian Approach.* Health Services and Outcomes Research Methodology  
+2. **Bam, N., & Sapkota, L. P. (2025).** *New Unit Lindley Mixed Model: Applications to COVID-19 and Child Mortality Rates under the Bayesian Approach.* Health Services and Outcomes Research Methodology  
 [https://doi.org/10.1007/s10742-025-00365-6](https://doi.org/10.1007/s10742-025-00365-6)
 
 3. **Sapkota, L. P., Bam, N., & Kumar, V. (2025).** *A New Exponential Family of Distributions with Applications to Engineering and Medical Data.* Scientific Reports, 15, 33649.  
