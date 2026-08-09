@@ -65,53 +65,57 @@ Covers multivariate models, methods, and techniques for latent structure in mult
 
 ## 📰 Publications
 
-1. **Shrestha, I., \& Bam, N. (2026).** Workplace spirituality and occupational stress in Nepalese commercial banks workforce. Cogent Business & Management, 13(1), 1–15. https://doi.org/10.1080/23311975.2026.2646763
+1. **Bam, N., Sapkota, L.P., Kumar, P., \& Kumar V (2026).** A new unit model with real data applications: classical, Bayesian, and regression analysis. Japanese Journal of Statistics and Data Science. https://doi.org/10.1007/s42081-026-00359-9
 
-2.  **Bam, N., Sapkota, L. P., & Mazucheli, J. (2026).**  
+2. **Bam, N., Sapkota, L. P., Kumar, P., \& Kumar, V. (2026).** Comparison of trigonometric distribution families under classical and Bayesian approaches. Data, 11(7), 182. https://doi.org/10.3390/data11070182
+
+3. **Shrestha, I., \& Bam, N. (2026).** Workplace spirituality and occupational stress in Nepalese commercial banks workforce. Cogent Business & Management, 13(1), 1–15. https://doi.org/10.1080/23311975.2026.2646763
+
+4.  **Bam, N., Sapkota, L. P., & Mazucheli, J. (2026).**  
 *A new unit-Lindley mixed-effects model with an application to electricity access data.*  **Environmetrics, 37**(2), e70077. https://doi.org/10.1002/env.70077
 
-3. **Bam, N., & Sapkota, L. P. (2025).** *New Unit Lindley Mixed Model: Applications to COVID-19 and Child Mortality Rates under the Bayesian Approach.* Health Services and Outcomes Research Methodology  
+5. **Bam, N., & Sapkota, L. P. (2025).** *New Unit Lindley Mixed Model: Applications to COVID-19 and Child Mortality Rates under the Bayesian Approach.* Health Services and Outcomes Research Methodology  
 [https://doi.org/10.1007/s10742-025-00365-6](https://doi.org/10.1007/s10742-025-00365-6)
 
-4. **Sapkota, L. P., Bam, N., & Kumar, V. (2025).** *A New Exponential Family of Distributions with Applications to Engineering and Medical Data.* Scientific Reports, 15, 33649.  
+6. **Sapkota, L. P., Bam, N., & Kumar, V. (2025).** *A New Exponential Family of Distributions with Applications to Engineering and Medical Data.* Scientific Reports, 15, 33649.  
 [https://doi.org/10.1038/s41598-025-14890-4](https://doi.org/10.1038/s41598-025-14890-4)
 
-5. **Sapkota, L. P., Bam, N., & Kumar, V. (2025).** *New Bounded Unit Weibull Model: Applications with Quantile Regression.* PLoS ONE, 20(6), e0323888.  
+7. **Sapkota, L. P., Bam, N., & Kumar, V. (2025).** *New Bounded Unit Weibull Model: Applications with Quantile Regression.* PLoS ONE, 20(6), e0323888.  
 [https://doi.org/10.1371/journal.pone.0323888](https://doi.org/10.1371/journal.pone.0323888)
 
-6. **Sapkota, L. P., Bam, N., Kumar, P., & Kumar, V. (2025).** *A Systematic Comparison of Ten Odd-G Family-Based Probability Models.* Contemporary Mathematics, 6(4), 5217–5254.  
+8. **Sapkota, L. P., Bam, N., Kumar, P., & Kumar, V. (2025).** *A Systematic Comparison of Ten Odd-G Family-Based Probability Models.* Contemporary Mathematics, 6(4), 5217–5254.  
 [https://ojs.wiserpub.com/index.php/CM/article/view/7828](https://ojs.wiserpub.com/index.php/CM/article/view/7828)
 
-7. **Sapkota, L. P., Bam, N., Kumar, P., & Kumar, V. (2025).** *New Logistic Family of Distributions: Applications to Reliability Engineering.* Axioms, 14(8), 643.  
+9. **Sapkota, L. P., Bam, N., Kumar, P., & Kumar, V. (2025).** *New Logistic Family of Distributions: Applications to Reliability Engineering.* Axioms, 14(8), 643.  
 [https://doi.org/10.3390/axioms14080643](https://doi.org/10.3390/axioms14080643)
 
-8. **Bam, N., & Hitigala Kaluarachchilage, P. K. (2025).** Comparison of the Unit-Lindley and Beta Mixed Model: A Bayesian Perspective. *Austrian Journal of Statistics, 55*(1), 49–82. https://doi.org/10.17713/ajs.v55i1.2115
+10. **Bam, N., & Hitigala Kaluarachchilage, P. K. (2025).** Comparison of the Unit-Lindley and Beta Mixed Model: A Bayesian Perspective. *Austrian Journal of Statistics, 55*(1), 49–82. https://doi.org/10.17713/ajs.v55i1.2115
 
 
-9. **Bam, N., \& Sapkota,. P. (2025).** *A Beta Mixed Model Approach for Analyzing Country-Level Risk and Protective Factors of COVID-19 Death Rates in Europe.* International Journal of Advanced and Applied Sciences, 12(12), 19-30. https://doi.org/10.21833/ijaas.2025.12.003
+11. **Bam, N., \& Sapkota,. P. (2025).** *A Beta Mixed Model Approach for Analyzing Country-Level Risk and Protective Factors of COVID-19 Death Rates in Europe.* International Journal of Advanced and Applied Sciences, 12(12), 19-30. https://doi.org/10.21833/ijaas.2025.12.003
 
-10. **Kumar, P., Sapkota, L. P., Kimar, V., & Bam, N. (2025).** Exploring the new exponentiated inverse Weibull distribution: Properties, estimation, and analysis via classical and Bayesian approaches. Contemporary Mathematics, 6(1), 827–849.  
+12. **Kumar, P., Sapkota, L. P., Kimar, V., & Bam, N. (2025).** Exploring the new exponentiated inverse Weibull distribution: Properties, estimation, and analysis via classical and Bayesian approaches. Contemporary Mathematics, 6(1), 827–849.  
 [https://ojs.wiserpub.com/index.php/CM/article/view/6255](https://ojs.wiserpub.com/index.php/CM/article/view/6255)
 
-11. **Sapkota, L. P., Kumar, P., Kumar, V., & Bam, N. (2024).** Estimation and Analysis of Trigonometric Models under Bayesian Approach. Pakistan Journal of Statistics and Operation Research, 20(3), 587–613.  
+13. **Sapkota, L. P., Kumar, P., Kumar, V., & Bam, N. (2024).** Estimation and Analysis of Trigonometric Models under Bayesian Approach. Pakistan Journal of Statistics and Operation Research, 20(3), 587–613.  
 [https://doi.org/10.18187/pjsor.v20i3.4615](https://doi.org/10.18187/pjsor.v20i3.4615)
 
-12. **Bam, N. (2023).** Analysis of country-level risk factors of COVID-19 mortality across countries of Asia: A generalized estimating equation approach. Journal of Health Management, 25(4), 1018–1028.  
+14. **Bam, N. (2023).** Analysis of country-level risk factors of COVID-19 mortality across countries of Asia: A generalized estimating equation approach. Journal of Health Management, 25(4), 1018–1028.  
 [https://doi.org/10.1177/09720634221150866](https://doi.org/10.1177/09720634221150866)
 
-13. **Bam, N. (2023).** Affective commitment among university faculty members in Nepal: A structural equation modeling approach. Prithvi Academic Journal, 6, 74–91.  
+15. **Bam, N. (2023).** Affective commitment among university faculty members in Nepal: A structural equation modeling approach. Prithvi Academic Journal, 6, 74–91.  
 [https://doi.org/10.3126/paj.v6i1.54614](https://doi.org/10.3126/paj.v6i1.54614)
 
-14. **Bam, N. (2023).** Analysis of Tourists’ Length of Stay in Pokhara, Nepal. Advances in Hospitality and Tourism Research (AHTR), 1(11).  
+16. **Bam, N. (2023).** Analysis of Tourists’ Length of Stay in Pokhara, Nepal. Advances in Hospitality and Tourism Research (AHTR), 1(11).  
 [https://doi.org/10.30519/ahtr.1073732](https://doi.org/10.30519/ahtr.1073732)
 
-15. **Bam, N., & Kunwar, A. (2020).** Tourist Satisfaction: Relationship Analysis among its Antecedents and Revisit Intention. Advances in Hospitality and Tourism Research (AHTR), 1(8).  
+17. **Bam, N., & Kunwar, A. (2020).** Tourist Satisfaction: Relationship Analysis among its Antecedents and Revisit Intention. Advances in Hospitality and Tourism Research (AHTR), 1(8).  
 [https://doi.org/10.30519/ahtr.519994](https://doi.org/10.30519/ahtr.519994)
 
-16. **Bam, N., Badal, M., & Bhattarai, R. (2018).** Factors affecting organizational commitment among university faculties of Nepal: A structural equation modeling approach. Journal of Human Resource Management, 1(21).  
+18. **Bam, N., Badal, M., & Bhattarai, R. (2018).** Factors affecting organizational commitment among university faculties of Nepal: A structural equation modeling approach. Journal of Human Resource Management, 1(21).  
 [Link](http://www.jhrm.eu/2018/04/90-factors-affecting-organizational-commitment-among-university-faculties-of-nepal-a-structural-equation-modeling-approach/)
 
-17. **Bam, N., Thagurathi, R., & Shrestha, B. (2018).** Stock price behavior of Nepalese commercial banks: random walk hypothesis. Journal of Business and Management, 5.  
+19. **Bam, N., Thagurathi, R., & Shrestha, B. (2018).** Stock price behavior of Nepalese commercial banks: random walk hypothesis. Journal of Business and Management, 5.  
 [https://doi.org/10.3126/jbm.v5i0.27387](https://doi.org/10.3126/jbm.v5i0.27387)
 
 ---
