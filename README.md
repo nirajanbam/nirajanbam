@@ -2,7 +2,7 @@
 
 🎓 Assistant Professor of Statistics | Researcher 
 
-📍 Miami University, Department of Mathematical and Physical Sciences, Hamilton, Ohio, USA  
+📍 Miami University, Department of Applied Computing and Engineering Technology, Hamilton, Ohio, USA  
 
 💡 **Research Interests:**  
 Developing innovative statistical methods and applying them across higher education, business and tourism, reliability engineering, epidemiology, environmental science, and social sciences. I focus on **bounded data modeling**, **correlated functional data modeling**, and **distribution theory**, with a particular emphasis on **Bayesian approaches**. Passionate about fostering interdisciplinary collaborations and translating statistical theory into practical solutions.
