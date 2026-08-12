@@ -65,7 +65,7 @@ Covers multivariate models, methods, and techniques for latent structure in mult
 
 ## 📰 Publications
 
-1.**Bam, N. (2026).** Modeling GHG emissions across selected South Asian countries using a unit log-log quantile mixed model. Environmetrics, 37(6), e70132. https://doi.org/10.1002/env.70132
+1. **Bam, N. (2026).** Modeling GHG emissions across selected South Asian countries using a unit log-log quantile mixed model. Environmetrics, 37(6), e70132. https://doi.org/10.1002/env.70132
 
 2. **Bam, N., Sapkota, L.P., Kumar, P., \& Kumar V (2026).** A new unit model with real data applications: classical, Bayesian, and regression analysis. Japanese Journal of Statistics and Data Science. https://doi.org/10.1007/s42081-026-00359-9
 
